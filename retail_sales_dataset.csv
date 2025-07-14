@@ -1,0 +1,21 @@
+,,,,,,,,,
+Total sales," ? 4,56,000.00 ",,,,SUM(retail_sales_dataset!H2:H1001),,,,
+Average Transaction, ? 456.00 ,,,,AVERAGE(retail_sales_dataset!H2:H1001),,,,
+,,,,,,,,,
+,,,,,,,,,
+"Sales performance & trends
+What is the total sales over time (daily, weekly, monthly)?
+Which months or days have the highest/lowest sales?
+What is the trend of average sales per transaction over time?
+What is the distribution of order quantities?",,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,Gender,(All),
+,,,,,,,,,
+,,,,,,,Row Labels,Sum of Total Amount,Sum of Quantity
+,,,,,,,2023,12430,59
+,,,,,,,Grand Total,12430,59
